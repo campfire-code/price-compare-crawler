@@ -1,0 +1,13 @@
+{
+  "id": "e28",
+  "slug": "price-compare-crawler",
+  "name": "淘宝 / 京东 / 1688 比价采集",
+  "version": "0.1.0",
+  "repo": "campfire-code/price-compare-crawler",
+  "license": "MIT",
+  "ui": {
+    "layout": "e",
+    "palette": "orange"
+  },
+  "upstream": null
+}
